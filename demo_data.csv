@@ -1,0 +1,12 @@
+Well_Name,Lat,Lon,Mag_Anomaly,Grav_Anomaly
+Control_Point,25.0,34.0,850,18
+Station_02,25.4,33.6,620,12
+Station_03,26.1,34.4,410,8
+Station_04,24.7,32.9,720,15
+Station_05,27.2,35.1,280,5
+Station_06,28.4,34.8,540,21
+Station_07,29.1,32.4,390,17
+Station_08,30.2,31.5,190,10
+Station_09,23.6,35.0,670,14
+Station_10,26.8,33.2,760,11
+Station_11,26.8,32.2,2500,45
