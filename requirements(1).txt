@@ -6,3 +6,4 @@ streamlit-folium
 pyproj
 geopandas
 reportlab
+folium 
