@@ -1,3 +1,4 @@
+folium 
 streamlit
 pandas
 openpyxl
@@ -6,4 +7,4 @@ streamlit-folium
 pyproj
 geopandas
 reportlab
-folium 
+
