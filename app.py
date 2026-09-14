@@ -42,7 +42,6 @@ import sqlite3
 from datetime import datetime
 from pathlib import Path
 from xml.sax.saxutils import escape as xml_escape
-
 import folium  # pyright: ignore[reportMissingImports]
 import pandas as pd
 import streamlit as st
